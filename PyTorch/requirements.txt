@@ -1,0 +1,7 @@
+scikit-image
+torch
+torchvision
+visdom
+dominate
+opencv-python
+cffi
